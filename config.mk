@@ -11,6 +11,6 @@
 # | License GPLv3
 # +-----------------------------------------------------------------------------
 
-RESUME=huxuan
-RESUMEZH=huxuan-zh
-RESUMEEN=huxuan-en
+RESUME=resume
+RESUMEZH=resume-zh
+RESUMEEN=resume-en
